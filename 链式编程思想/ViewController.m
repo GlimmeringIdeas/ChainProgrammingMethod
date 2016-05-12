@@ -8,11 +8,10 @@
 
 #import "ViewController.h"
 #import "NSObject+Caculate.h"
-@interface ViewController ()
-
-@end
 
 @implementation ViewController
+
+// 链式编程特点：方法的返回值是 block，block 必须有返回值（本身对象），block 参数是需要操作的值。将多个操作通过点号连接在一起成为一句代码是代码可读性好。
 
 - (void)viewDidLoad {
     [super viewDidLoad];
