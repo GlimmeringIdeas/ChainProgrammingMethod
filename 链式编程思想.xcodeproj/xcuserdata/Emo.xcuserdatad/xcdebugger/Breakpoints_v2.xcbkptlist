@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;/ViewController.m"
+            timestampString = "484740570.343658"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;/ViewController.m"
+            timestampString = "484740571.023678"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;/NSObject+Caculate.m"
+            timestampString = "484740582.840866"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "-emo_makeCaculate:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;/NSObject+Caculate.m"
+            timestampString = "484740583.456038"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "-emo_makeCaculate:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;/NSObject+Caculate.m"
+            timestampString = "484740584.095991"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "-emo_makeCaculate:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;/NSObject+Caculate.m"
+            timestampString = "484740584.711912"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "-emo_makeCaculate:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;/CaculateManager.m"
+            timestampString = "484740598.440204"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "-addNum"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CaculateManager addNum]"
+                  moduleName = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maxee/Desktop/%E9%93%BE%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/%E9%93%BE%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/CaculateManager.m"
+                  timestampString = "484741190.129657"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__25-[CaculateManager addNum]_block_invoke"
+                  moduleName = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maxee/Desktop/%E9%93%BE%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/%E9%93%BE%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/CaculateManager.m"
+                  timestampString = "484741190.129758"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;/CaculateManager.m"
+            timestampString = "484740599.040349"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "-addNum"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;/CaculateManager.m"
+            timestampString = "484740602.360516"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "-addNum"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;/CaculateManager.m"
+            timestampString = "484740602.904193"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "-addNum"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_"
+                  moduleName = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maxee/Desktop/%E9%93%BE%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/%E9%93%BE%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/CaculateManager.m"
+                  timestampString = "484741190.131921"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_"
+                  moduleName = "&#x94fe;&#x5f0f;&#x7f16;&#x7a0b;&#x601d;&#x60f3;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Maxee/Desktop/%E9%93%BE%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/%E9%93%BE%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/CaculateManager.m"
+                  timestampString = "484741190.132032"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
